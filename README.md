@@ -9,4 +9,4 @@ This repository contains my JavaScript practice programs based on loops.
 -> Number patterns
 -> Star patterns
 -> Alphabet patterns
--> Number-based problems
+
